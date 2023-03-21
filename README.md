@@ -1,4 +1,4 @@
-# Agro Grow Android App
+# Agro Grow Website
 
 Agro Grow is a website which is developed specially for the agriculture community. This website aims to help farmers to reach to new farming technology using rental system. 
 This website is for two types of users namely: farmers, who need the equipment and owners who want to rent their equipment. The farmers need to pay some rent to owners acording to the required time.
