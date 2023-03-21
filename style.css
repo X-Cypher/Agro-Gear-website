@@ -1,0 +1,188 @@
+body {
+  color: #fff;
+  width: 99.2%
+}
+
+h1 {
+  font-family: 'Barlow', sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Barlow', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #000;
+}
+
+#title {
+  background-color: #228b22;
+}
+#features{
+  padding: 0 1rem;
+}
+
+h3 {
+  color: #000;
+  font-size: 2rem;
+  font-family: 'Barlow', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.row {
+  padding: 6% 10%;
+}
+
+.Download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+.Sign-button {
+  margin: 0% 6% 0% 6%;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-right: 18px;
+  font-weight: bold;
+}
+
+.form {
+  text-decoration: none;
+  color: #228b22;
+}
+
+.logo {
+  height: 50%;
+  width: 50%;
+  padding-left: 1.5rem;
+  padding-top: 1rem;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+  width: 100%
+}
+.intro{
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 1.25rem;
+}
+.app{
+  height: 65%;
+  width: 60%;
+  margin-left: 7rem;
+}
+
+.features {
+  color: #aed36c;
+  font-size: 6rem;
+  padding-bottom: 1rem;
+}
+
+.features:hover {
+  color: #69ab3d;
+}
+
+.features-box {
+  text-align: center;
+  padding: 5% 5%;
+}
+
+.features-content {
+  padding: 1% 15%;
+}
+
+.feature-image {
+  border-radius: 40px;
+  padding: 2px 2px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#testimonials {
+  background-color: #aed36c;
+  text-align: center;
+  color: #fff;
+}
+
+.testimonials-image {
+  width: 20%;
+  border-radius: 80px;
+}
+
+.testimonial-text {
+  color: #fff;
+}
+
+#press {
+  background-color: #aed36c;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.navbar {
+  width: 100%;
+  color: #fff;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: -17px;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-size: 1.75rem;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+  padding: 0 18px;
+  font-weight: bold;
+  color: #fff;
+}
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+
+#footer {
+  text-align: center;
+  padding: 20px 0px 20px;
+}
+
+.brand {
+  color: #000;
+  margin: 0% 2% 0% 2%;
+  font-size: 2rem;
+  padding-bottom: 20px;
+}
+.change_content:after{
+  content:"";
+  animation: changetext 10s infinite linear;
+  color: #00b894;
+}
+@keyframes changetext {
+  0%{content:"Theresher";}
+  20%{content:"tractors";}
+  35%{content:"Harvester";}
+  60%{content:"Rotary";}
+  80%{content:"Water bowser";}
+  100%{content:"Triller";}..
+}
+.hint-text{
+  color: black;
+  background-color: green;
+
+}
